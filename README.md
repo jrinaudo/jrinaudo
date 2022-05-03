@@ -1,7 +1,6 @@
 ### Hi, I'm Juan 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrinaudo&theme=nord&hide=java)
-![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jrinaudo&theme=nord&show_icons=true&hide=issues)
 <!--
 **jrinaudo/jrinaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
